@@ -5,5 +5,6 @@ public class ClienteControlador {
 	private int y;
 	private int m1;
 	private int y2;
+	private int e2;
 
 }
